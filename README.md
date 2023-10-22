@@ -47,3 +47,6 @@ Your name is timati
 
 # How do I install it?
 Currently, you cant.
+
+> [!NOTE]
+> This package has 0 dependencies. Cool.
