@@ -2,11 +2,13 @@
 Make your Python coding experience less hard with this package!
 
 # Easy Py README
-Hello! This is EasyPy package made by TotallyNotADev for Python 3.7+!
+Hello! This is EasyPy package made by TimatiMyBeloved for Python 3.7+!
+
 Everything about this package is under there!
 
 # What is the current version of this package?
 Current version is br_1.0
+
 br_1.0 means Beta Release 1.0
 
 # What EasyPy can do?
@@ -14,6 +16,7 @@ Currently, EasyPy can only do print() and input()
 
 # Show me an example of a code, please.
 Sure! Here it is:
+
 from easypy import prn, ipt
 
 def example1(text):
@@ -21,6 +24,7 @@ def example1(text):
 
 def example2(text):
 	a = ipt(text)
+ 
 	return a
 
 example1("Hello EasyPy!")
