@@ -1,6 +1,6 @@
 # Change Log
 
-Version (Day / Month / Year)
+## Version (Day / Month / Year)
 ============================
 
 ```
