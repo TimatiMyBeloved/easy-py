@@ -1,7 +1,7 @@
 # Change Log
 
 ```
-br_1.0 (22/10/2023):
+0.0.1 (22/10/2023):
 - Release
 - Added 2 functions (ipt(), prn())
 ```
