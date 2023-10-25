@@ -3,7 +3,7 @@
 ```
 0.0.1 (22/10/2023):
 - Release
-- Added 2 functions (ipt(), prn())
+- Added 8 functions
 ```
 
 > [!NOTE]
